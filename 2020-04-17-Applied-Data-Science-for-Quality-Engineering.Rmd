@@ -1,0 +1,76 @@
+---
+title: "Applied Data Science for Quality Engineering"
+author: "Xin Zhou"
+date: "17 April 2020"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 4
+    theme: readable
+    number_sections: true
+    mathjax: "default"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Vorlesung
+
+## Der Datenanalyseprozess
+
+## Einführung in die Wahrscheinlichkeitsrechnung
+
+## Zufallsgrößen und Zufallsvariablen
+
+## Stetige Verteilungsmodelle im Engineering
+
+## Zentraler Grenzwertsatz und Verteilungen von Stichprobengrößen
+
+## Zufallsstreubereiche im Engineering - Überwachung und Regelung von Produktionsprozessen (SPC)
+
+## Konstruktion von Stichprobenfunktionen
+
+## Bestimmung von Konfidenzintervallen 
+
+## Unsicherheit von Kennzahlen am Beispiel der Prozessfähigkeitsanalyse 
+
+## Statistische Testverfahren  
+
+## Parametrische und nicht-parametrische Hypothesentests 
+
+## Ermittlung und Überprüfung von Abhängigkeiten - Korrelations- und Regressionsanalyse 
+
+## Design of Experiments I - Bestimmung von Faktoreffekten
+
+## Design of Experiments II - Ableitung von Modellstrukturen
+
+## Untersuchung von Einflussgrößen - Varianzanalyse am Beispiel der Messmittelfähigkeitsanalyse 
+
+# Übung
+
+## Deskriptive Statistik
+
+## Rechnen mit Wahrscheinlichkeiten (Selbststudium)
+
+## Verteilungsmodelle für diskrete und stetige Zufallsvariablen
+
+## Zentraler Grenzwertsatz 
+
+## Einsatz von Qualitätsregelkarten
+
+## Momenten- und Maximum-Likelihood-Methode
+
+## Konfidenzintervalle
+
+## Parametrische Hypothesentests
+
+## Einfache Lineare Regression
+
+## Design of Experiments
+
+##
+
+
