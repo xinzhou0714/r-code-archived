@@ -21,6 +21,18 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Der Datenanalyseprozess
 
+### Aufbereitung von empirischen Daten
+
+### Pareto-Diagramm
+
+### Empirische Kennzahlen
+
+### Quantile
+
+### Darstellung und Beschreibung bivariater Datensätze
+
+
+
 ## Einführung in die Wahrscheinlichkeitsrechnung
 
 ## Zufallsgrößen und Zufallsvariablen
